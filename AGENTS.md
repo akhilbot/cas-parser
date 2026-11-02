@@ -157,7 +157,7 @@ Follow the skill at `.agents/skills/add-cas-parser/SKILL.md`. It walks through:
 - Add docstrings with `Args`/`Returns` for non-trivial functions.
 - Prefer pure helper functions for parsing steps.
 - Keep CLI presentation logic out of parser core logic.
-- Python 3.14 syntax is allowed; do not "fix" valid 3.14 forms just for style.
+- Python 3.15 syntax is allowed; do not "fix" valid 3.15 forms just for style.
 
 ## Non-Goals
 
